@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pratik2207
-- 👀 I’m interested in software programming
-- 🌱 I’m currently learning CPP
-- 💞️ I’m looking to collaborate on projects related to CPP.
+- 👀 I’m  interested in Machine learning 
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on projects related to C,CPP and Python.
 - 📫 How to reach me pratikrsonawane7@gmail.com
 - 😄 Pronouns: He/him
   
