@@ -14,7 +14,7 @@
 
 ### 🧠 About Me
 
-- 🔬 **Gen AI Engineer & Researcher** at Vizuara Technologies, focused on the inner workings of LLMs.
+- 🔬 **Gen AI Engineer & Researcher** , focused on the inner workings of LLMs.
 - 🧩 I study **reasoning mechanisms** and **tokenization** — building tokenizers and generative models from scratch to understand *why* they work, not just *that* they work.
 - 🛠️ I've implemented from-scratch **BPE tokenizers**, **diffusion models**, and benchmarked AI **reasoning paradigms** across multiple agent frameworks.
 - 📚 Always reading papers and turning them into working, reproducible code.
