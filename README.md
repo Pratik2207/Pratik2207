@@ -27,7 +27,7 @@
 |---------|-------------|------|
 | 🔤 [**BPE Tokenization & Compression Analysis**](https://github.com/Pratik2207/-Tokenization-and-Byte-Pair-Encoding) | From-scratch Byte Pair Encoding tokenizer with a multilingual compression-ratio study (EN/DE/ES/FR) benchmarked against GPT-2/3.5/4. Includes a full research report. | `Python` `tiktoken` `NLP` |
 | 🌀 [**Yi Syllable Diffusion**](https://github.com/Pratik2207/yi-syllable-diffusion) | Unconditional DDPM that generates Yi-script syllables — U-Net with v-prediction + zero-SNR, with a research report and pretrained model. | `PyTorch` `Diffusion` |
-| 🤖 [**AI Agents**](https://github.com/Pratik2207/Ai-agents) | Hands-on agentic-AI implementations: CrewAI, LangGraph, LlamaIndex, and Smolagents. | `LangGraph` `CrewAI` |
+| ⚖️ [**Indian Criminal Law RAG Agent**](https://github.com/Pratik2207/indian-criminal-law-rag-agent) | Fully local, open-source Retrieval-Augmented Generation assistant for Indian criminal law (IPC, CrPC, BNS, BNSS). Multi-agent CrewAI pipeline delivering grounded, citation-aware answers, with a full technical report. | `CrewAI` `Qdrant` `Ollama` |
 | 📊 [**TabuQuest**](https://github.com/Pratik2207/TabuQuest) | Natural-language question answering over structured/tabular datasets using LLMs. | `Pandas` `LLMs` |
 
 ---
